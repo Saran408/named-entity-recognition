@@ -1,5 +1,5 @@
-## EXP NO:06
-## DATE:
+### EX NO: 06
+### DATE: 01/11/2022
 # <p align='center'> Named Entity Recognition</p>
 
 ## AIM
